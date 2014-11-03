@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "Nigmeta Infotech",
+  "launch_path": "/index.html",
+  "description": "Assurance Intelligence and Realtime!.-A Company by Amrut Shetty",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Vikas Chauhan",
+    "url": "http://in.linkedin.com/pub/vikas-chauhan/21/2b9/a85"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Nigmeta Infotech",
+      "description": "Assurance Intelligence and Realtime!.-A Company by Amrut Shetty"
+    }
+  }
+}

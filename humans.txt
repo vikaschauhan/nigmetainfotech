@@ -1,0 +1,24 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  <Vikas Chauhan> -- <Web & Logo Designer> -- <_Vikas_Chauhan>
+
+# THANKS
+
+  <Bootstrap>
+  <Animate.css>
+  <Fontawesome>
+  <Google Font>
+  <Google Web Starter Kit>
+  <Codrops>
+  <CSS tricks>
+  <Amrut Shetty>
+  <Imran Khan>
+  <Codepen.io>
+  <hacker news>
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3, JQuery, Javascript, Inkscape
